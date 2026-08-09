@@ -1,0 +1,10 @@
+tensorflow>=2.15
+tensorflow-datasets>=4.9
+streamlit>=1.30
+streamlit-drawable-canvas>=0.9.3
+numpy
+pandas
+opencv-python-headless
+Pillow
+matplotlib
+scikit-learn

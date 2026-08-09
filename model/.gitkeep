@@ -1,0 +1,4 @@
+This folder will contain handwritten_char_cnn.keras, label_mapping.json,
+training_history.png and confusion_matrix.png after you run:
+
+    python train_model.py
